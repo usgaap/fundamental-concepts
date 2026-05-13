@@ -1,0 +1,46 @@
+﻿StandardLabel,ReportElementName,Datatype,CalendarPeriodType,BalanceType
+Current Assets,CurrentAssets,Monetary,Instant,Debit
+Noncurrent Assets,NoncurrentAssets,Monetary,Instant,Debit
+Assets,Assets,Monetary,Instant,Debit
+Current Liabilities,CurrentLiabilities,Monetary,Instant,Credit
+Noncurrent Liabilities,NoncurrentLiabilities,Monetary,Instant,Credit
+Liabilities,Liabilities,Monetary,Instant,Credit
+Commitments and Contingencies,CommitmentsAndContingencies,Monetary,Instant,Credit
+Temporary Equity,TemporaryEquity,Monetary,Instant,Credit
+Equity Attributable To Parent,EquityAttributableToParent,Monetary,Instant,Credit
+Equity Attributable To Noncontrolling Interest,EquityAttributableToNoncontrollingInterest,Monetary,Instant,Credit
+Equity,Equity,Monetary,Instant,Credit
+Liabilities and Equity,LiabilitiesAndEquity,Monetary,Instant,Credit
+Revenues,Revenues,Monetary,Duration,Credit
+Cost of Revenue,CostOfRevenue,Monetary,Duration,Debit
+Gross Profit,GrossProfit,Monetary,Duration,Credit
+Operating Expenses,OperatingExpenses,Monetary,Duration,Debit
+Operating Income (Loss),OperatingIncomeLoss,Monetary,Duration,Credit
+Nonoperating Income (Loss) Including Interest and Debt Expense,NonoperatingIncomeLossIncludingInterestAndDebtExpense,Monetary,Duration,Credit
+Income (Loss) From Continuing Operations Before Tax,IncomeLossFromContinuingOperationsBeforeTax,Monetary,Duration,Credit
+Income Tax Expense (Benefit),IncomeTaxExpenseBenefit,Monetary,Duration,Debit
+Income (Loss) From Continuing Operations After Tax,IncomeLossFromContinuingOperationsAfterTax,Monetary,Duration,Credit
+"Income (Loss) From Discontinued Operations, Net Of Tax",IncomeLossFromDiscontinuedOperationsNetOfTax,Monetary,Duration,Credit
+Net Income (Loss),NetIncomeLoss,Monetary,Duration,Credit
+"Net Cash Flow From Operating Activities, Continuing",NetCashFlowFromOperatingActivitiesContinuing,Monetary,Duration,
+"Net Cash Flow From Operating Activities, Discontinued",NetCashFlowFromOperatingActivitiesDiscontinued,Monetary,Duration,
+Net Cash Flow From Operating Activities,NetCashFlowFromOperatingActivities,Monetary,Duration,
+"Net Cash Flow From Investing Activities, Continuing",NetCashFlowFromInvestingActivitiesContinuing,Monetary,Duration,
+"Net Cash Flow From Investing Activities, Discontinued",NetCashFlowFromInvestingActivitiesDiscontinued,Monetary,Duration,
+Net Cash Flow From Investing Activities,NetCashFlowFromInvestingActivities,Monetary,Duration,
+"Net Cash Flow From Financing Activities, Continuing",NetCashFlowFromFinancingActivitiesContinuing,Monetary,Duration,
+"Net Cash Flow From Financing Activities, Discontinued",NetCashFlowFromFinancingActivitiesDiscontinued,Monetary,Duration,
+Net Cash Flow From Financing Activities,NetCashFlowFromFinancingActivities,Monetary,Duration,
+Exchange Gains (Losses),ExchangeGainsLosses,Monetary,Duration,
+Net Cash Flow,NetCashFlow,Monetary,Duration,
+"Net Cash Flow, Continuing",NetCashFlowContinuing,Monetary,Duration,
+"Net Cash Flow, Discontinued",NetCashFlowDiscontinued,Monetary,Duration,
+Other Comprehensive Income (Loss),OtherComprehensiveIncomeLoss,Monetary,Duration,Credit
+Comprehensive Income (Loss),ComprehensiveIncomeLoss,Monetary,Duration,Credit
+Net Income (Loss) Attributable To Parent,NetIncomeLossAttributableToParent,Monetary,Duration,Credit
+Net Income (Loss) Attributable To Noncontrolling Interest,NetIncomeLossAttributableToNoncontrollingInterest,Monetary,Duration,Credit
+Preferred Stock Dividends and Other Adjustments,PreferredStockDividendsAndOtherAdjustments,Monetary,Duration,Debit
+"Net Income (Loss) Available To Common Stockholders, Basic",NetIncomeLossAvailableToCommonStockholdersBasic,Monetary,Duration,Credit
+Other Operating Income (Expenses),OtherOperatingIncomeExpenses,Monetary,Duration,Credit
+Comprehensive Income (Loss) Attributable to Parent,ComprehensiveIncomeLossAttributableToParent,Monetary,Duration,Credit
+Comprehensive Income (Loss) Attributable To Noncontrolling Interest,ComprehensiveIncomeLossAttributableToNoncontrollingInterest,Monetary,Duration,Credit
